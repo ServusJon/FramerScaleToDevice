@@ -1,7 +1,7 @@
 Framer Module: Scale Your Prototype To Your Device
 ======================================
 
-Here is a simple module I use to view my prototype on my iPhone even if I build the device fitting a standard android device like the Nexus 5X.
+Here is a simple module I use to view my prototype on my iPhone even if I build the device fitting a standard android device like the Nexus 5X. The performance of Framer prototypes is currently much better on an iPhone.
 
 ![Alt Text](https://raw.githubusercontent.com/ServusJon/FramerScaleToDevice/master/resize.jpg)
 
