@@ -6,6 +6,7 @@ Here is a simple module I use to view my prototype on my iPhone even if I build 
 ![Alt Text](https://raw.githubusercontent.com/ServusJon/FramerScaleToDevice/master/resize.jpg)
 
 ## 1. Add the module to the top of your Framer prototype:
+Copy the scaleToDevice.coffee file to the module folder and include it in your prototype.
 ```coffee
 scaleToDevice = require "scaleToDevice"
 ```
