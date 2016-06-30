@@ -10,7 +10,8 @@ Here is a simple module I use to view my prototype on my iPhone even if I build 
 scaleToDevice = require "scaleToDevice"
 ```
 
-## 2. Set a reference layer.width (should have 100% width of your prototype):
+## 2. Set a reference layer.width
+This reference layer.width should have 100% width of your prototype.
 ```coffee
 referenceFrame = helper.scaleToDevice(MYREFERENCELAYER.width)
 ```
