@@ -3,7 +3,7 @@ Framer Module: Scale Your Prototype To Your Device
 
 Here is a simple module I use to view my prototype on my iPhone even if I build the device fitting a standard android device like the Nexus 5X.
 
-## 1. Add this module to your Framer by inserting this to top of your file:
+## 1. Add the module to the top of your Framer prototype:
 ```coffee
 scaleToDevice = require "scaleToDevice"
 ```
