@@ -14,7 +14,7 @@ scaleToDevice = require "scaleToDevice"
 ## 2. Set a reference layer.width
 This reference layer.width should have 100% width of your prototype.
 ```coffee
-referenceFrame = helper.scaleToDevice(MYREFERENCELAYER.width)
+referenceFrame = scaleToDevice.scaleToDevice(MYREFERENCELAYER.width)
 ```
 
 ## Optional: Instead of using Framer.width or Framer.height you need to use:
